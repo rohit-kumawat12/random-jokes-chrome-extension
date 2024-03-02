@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 300px;
+    background: #000000d4;
+    color: white;
+    font-weight: 700;
+}
+
+#jokeText{
+    margin: 5%;
+}

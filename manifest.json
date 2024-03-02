@@ -1,0 +1,14 @@
+{
+    "name":"Jokes",
+    "version":"1.0.0",
+    "author": "Rohit",
+    "description": "A Chrome extension that brings a smile to your browsing experience with a random dad joke every time you click on the extension icon.",
+    "action": {
+        "default_popup":"popup.html",
+        "default_icon": {
+            "128":"logo.png"
+        }
+    },
+    "permissions": ["activeTab"],
+    "manifest_version": 3
+}
