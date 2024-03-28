@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Chrome extension brings a smile to your browsing experience with a simple click. Get a random dad joke with just a click of the extension icon, courtesy of the "Random Jokes Chrome Extension" Chrome extension.
+This Chrome extension brings a smile to your browsing experience with a simple click. Get a random joke with just a click of the extension icon, courtesy of the "Random Jokes Chrome Extension" Chrome extension.
 
 ## Disclaimer
 
